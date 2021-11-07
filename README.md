@@ -23,7 +23,7 @@ I'm a Software Engineer who is passionate about writing code, solving problems, 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   <!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) -->
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Spring](https://img.shields.io/badge/springboot-green)
+  ![Spring](https://img.shields.io/badge/springboot-grey)
      <!--  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) -->
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
