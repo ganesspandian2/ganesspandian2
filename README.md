@@ -39,13 +39,18 @@ I'm a Software Engineer who is passionate about writing code, solving problems, 
 
 <br/>
 
+<a href="https://github.com/ganesspandian2">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesspandian2&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+<br/>
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navin-ganesh-pandiyan-r-k-496801174/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ganesh.pandian.186/)
 [![Instagram Badge](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/navin_ganesh_pandiyan/)
 
-<a href="https://github.com/ganesspandian2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
-</a>
+
 
 <!--
 **ganesspandian2/ganesspandian2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
