@@ -4,7 +4,7 @@
 
 I'm a Software Engineer who is passionate about writing code, solving problems, and building scalable software applications.
 
-- 💼 I’m currently working as a Software Engineer Intern at Virtusa. 
+- 💼 I’m currently working as a Software Engineer Intern at Athenahealth and also I have worked as a Software Engineer Intern         at Virtusa during June to Dec 2021. 
 - 🔭 I’m currently a CS student at Sri Krishna College of Technology.
 - 📚 I’m currently learning backend web development using Spring, MySQL, NodeJS, ExpressJS and MongoDB.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/navin-ganesh-pandiyan-r-k-496801174/) 
