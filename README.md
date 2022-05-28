@@ -8,7 +8,7 @@ I'm a Software Engineer who is passionate about writing code, solving problems, 
 - 📚 I’m good at backend web development using Spring, MySQL, NodeJS, ExpressJS and MongoDB.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/navin-ganesh-pandiyan-r-k-496801174/) 
 
-<h3> 🛠 &nbsp;My Work Experience</h3>
+<h3> 💼 &nbsp;My Work Experience</h3>
 
 | Athenahealth Inc | Present (From Jan 2022) |
 |:---------:|:----------------------------------:|
