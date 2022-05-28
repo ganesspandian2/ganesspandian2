@@ -16,7 +16,7 @@ I'm a Software Engineer who is passionate about writing code, solving problems, 
 
 | Virtusa | Period of work (Jun/2021 - Dec/2021) |
 |:---------:|:----------------------------------:|
-| Software Engineer Intern | Tools andFrameworks - Spring Boot, Spring Data JPA, Spring Security, MySQL |
+| Software Engineer Intern | Tools and Frameworks - Spring Boot, MySQL |
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
