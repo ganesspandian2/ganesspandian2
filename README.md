@@ -8,14 +8,15 @@ I'm a Software Engineer who is passionate about writing code, solving problems, 
 - 📚 I’m good at backend web development using Spring, MySQL, NodeJS, ExpressJS and MongoDB.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/navin-ganesh-pandiyan-r-k-496801174/) 
 
+<h3> 🛠 &nbsp;My Work Experience</h3>
+
 | Athenahealth Inc | Present (From Jan 2022) |
 |:---------:|:----------------------------------:|
 | Software Engineer Intern | Tools and Frameworks - NodeJS, ExpressJS and OracleDB |
 
 | Virtusa | Period of work (Jun/2021 - Dec/2021) |
 |:---------:|:----------------------------------:|
-| Software Engineer Intern | Tools andFrameworks - Spring Boot, Spring Data JPA,
-Spring Security, MySQL |
+| Software Engineer Intern | Tools andFrameworks - Spring Boot, Spring Data JPA, Spring Security, MySQL |
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
