@@ -4,7 +4,7 @@
 
 I'm a Software Engineer who is passionate about writing code, solving problems, and building scalable software applications.
 
-- 💼 I’m currently working as a Software Engineer Intern at Athenahealth (Present) and also I have worked as a Software Engineer Intern         at Virtusa during June to Dec 2021. 
+- 💼 I’m currently working as a Software Engineer at Athenahealth (Present) and also I have worked as a Software Engineer Intern         at Virtusa during June to Dec 2021. 
 - 📚 I’m good at backend web development using Spring, MySQL, NodeJS, ExpressJS and MongoDB.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/navin-ganesh-pandiyan-r-k-496801174/) 
 
@@ -12,7 +12,7 @@ I'm a Software Engineer who is passionate about writing code, solving problems, 
 
 | Athenahealth Inc | Present (From Jan 2022) |
 |:---------:|:----------------------------------:|
-| Software Engineer Intern | Tools and Frameworks - NodeJS, ExpressJS and OracleDB |
+| Software Engineer | Tools and Frameworks - NodeJS, ExpressJS and OracleDB |
 
 | Virtusa | Period of work (Jun/2021 - Dec/2021) |
 |:---------:|:----------------------------------:|
